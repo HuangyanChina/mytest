@@ -15,6 +15,7 @@ class Greeter extends Component{
 	render(){
 		return(
 			<div className = {styles.root}>
+			测试
 				{config.greetText}
 			</div>
 		)
